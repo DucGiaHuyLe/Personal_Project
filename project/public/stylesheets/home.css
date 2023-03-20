@@ -1,0 +1,194 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600&display=swap');
+
+* {
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    background-color: #173864;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.logo {
+    width: 30vh;
+    display: block;
+    max-width: 27vh;
+    margin: auto;
+    float: left;
+}
+
+.topmenu {
+    width: auto;
+    height: 10vh;
+}
+
+.menu {
+    padding-top: 15px;
+    float: right;
+}
+
+.menu a {
+    float: left;
+    color: #fff;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 15px;
+}
+
+#map {
+    width: 70%;
+    height: 60vh;
+    max-width: 100%;
+    float: left;
+}
+
+.main {
+    width: 100%;
+    height: auto;
+}
+
+.infoblock {
+    background-color: #FFFFFF;
+    width: 30%;
+    height: 60vh;
+    margin: auto;
+    border-radius: 0px;
+    position: relative;
+    float: left;
+}
+
+hr {
+    border: 3px solid #173864;
+}
+
+.detailsheading {
+    color: #173864;
+    font-weight: 800;
+    font-size: 30px;
+    margin: 5px;
+}
+
+.infodiv {
+    padding-left: 10px;
+    height: 180px;
+}
+
+.info {
+    padding-top: 10px;
+}
+
+.checkinbutton {
+    cursor: pointer;
+    width: 75%;
+    border-radius: 0px;
+    color: #fff;
+    font-weight: 600;
+    font-size: 15px;
+    /*gradient background example*/
+    /*background: linear-gradient(to right, #9C27B0, #E040FB);*/
+    background-color: #173864;
+    outline: 5px solid #fff;
+    border: 2px solid #173864;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 12%;
+    padding: 10px;
+    display: block;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    color: red;
+    text-decoration: underline;
+}
+
+a:active {
+    color: blue;
+    text-decoration: underline;
+}
+
+.modal {
+    position: absolute;
+    align-items: center;
+    justify-content: center;
+    width: 100%; /* Full width */
+    height: 70%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    z-index: 1; /* Sit on top */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+    -webkit-animation-name: fadeIn; /* Fade in the background */
+    -webkit-animation-duration: 0.4s;
+    animation-name: fadeIn;
+    animation-duration: 0.4s
+}
+
+/* Modal Content */
+.modal-content {
+  max-width: 600px;
+  width: 100%;
+  -webkit-animation-name: slideIn;
+  -webkit-animation-duration: 0.4s;
+  animation-name: slideIn;
+  animation-duration: 0.4s
+}
+
+/* The Close Button */
+.close {
+  color: white;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.modal-header {
+  padding: 2px 16px;
+  background-color: #95b7ed;
+  color: #fff;
+  text-align: center;
+}
+
+.modal-body {
+  padding: 15px 16px;
+  background:#fff;
+  text-align: center;
+  color: #173864;
+}
+
+.modal-footer {
+  padding: 15px 16px;
+  background-color: #95b7ed;
+  color: white;
+  text-align: center;
+}
+
+@media screen and (max-width: 600px) {
+#map {
+    width: 100%;
+    height: 40vh;
+}
+
+.infoblock {
+    border-top: 6px solid #173864;
+    width: 100%;
+    height: auto;
+}
+
+}

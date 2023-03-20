@@ -1,0 +1,1124 @@
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\appsettings.Development.json
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\appsettings.json
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\ElectroMVC.staticwebassets.runtime.json
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\ElectroMVC.exe
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\ElectroMVC.deps.json
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\ElectroMVC.runtimeconfig.json
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\ElectroMVC.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\ElectroMVC.pdb
+E:\IT projects\ElectroMVC\ElectroMVC\obj\Debug\net6.0\ElectroMVC.csproj.AssemblyReference.cache
+E:\IT projects\ElectroMVC\ElectroMVC\obj\Debug\net6.0\ElectroMVC.GeneratedMSBuildEditorConfig.editorconfig
+E:\IT projects\ElectroMVC\ElectroMVC\obj\Debug\net6.0\ElectroMVC.AssemblyInfoInputs.cache
+E:\IT projects\ElectroMVC\ElectroMVC\obj\Debug\net6.0\ElectroMVC.AssemblyInfo.cs
+E:\IT projects\ElectroMVC\ElectroMVC\obj\Debug\net6.0\ElectroMVC.csproj.CoreCompileInputs.cache
+E:\IT projects\ElectroMVC\ElectroMVC\obj\Debug\net6.0\ElectroMVC.MvcApplicationPartsAssemblyInfo.cache
+E:\IT projects\ElectroMVC\ElectroMVC\obj\Debug\net6.0\ElectroMVC.RazorAssemblyInfo.cache
+E:\IT projects\ElectroMVC\ElectroMVC\obj\Debug\net6.0\ElectroMVC.RazorAssemblyInfo.cs
+E:\IT projects\ElectroMVC\ElectroMVC\obj\Debug\net6.0\staticwebassets\msbuild.ElectroMVC.Microsoft.AspNetCore.StaticWebAssets.props
+E:\IT projects\ElectroMVC\ElectroMVC\obj\Debug\net6.0\staticwebassets\msbuild.build.ElectroMVC.props
+E:\IT projects\ElectroMVC\ElectroMVC\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ElectroMVC.props
+E:\IT projects\ElectroMVC\ElectroMVC\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ElectroMVC.props
+E:\IT projects\ElectroMVC\ElectroMVC\obj\Debug\net6.0\staticwebassets.pack.json
+E:\IT projects\ElectroMVC\ElectroMVC\obj\Debug\net6.0\staticwebassets.build.json
+E:\IT projects\ElectroMVC\ElectroMVC\obj\Debug\net6.0\staticwebassets.development.json
+E:\IT projects\ElectroMVC\ElectroMVC\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\IT projects\ElectroMVC\ElectroMVC\obj\Debug\net6.0\scopedcss\bundle\ElectroMVC.styles.css
+E:\IT projects\ElectroMVC\ElectroMVC\obj\Debug\net6.0\scopedcss\projectbundle\ElectroMVC.bundle.scp.css
+E:\IT projects\ElectroMVC\ElectroMVC\obj\Debug\net6.0\ElectroMVC.dll
+E:\IT projects\ElectroMVC\ElectroMVC\obj\Debug\net6.0\refint\ElectroMVC.dll
+E:\IT projects\ElectroMVC\ElectroMVC\obj\Debug\net6.0\ElectroMVC.pdb
+E:\IT projects\ElectroMVC\ElectroMVC\obj\Debug\net6.0\ElectroMVC.genruntimeconfig.cache
+E:\IT projects\ElectroMVC\ElectroMVC\obj\Debug\net6.0\ref\ElectroMVC.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\Humanizer.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\MessagePack.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\MessagePack.Annotations.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\Microsoft.Build.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\NuGet.Common.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\NuGet.Configuration.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\NuGet.Frameworks.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\NuGet.LibraryModel.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\NuGet.Packaging.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\NuGet.ProjectModel.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\NuGet.Protocol.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\NuGet.Versioning.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\System.Composition.Convention.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\System.Composition.Hosting.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\System.Composition.Runtime.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\System.Composition.TypedParts.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\IT projects\ElectroMVC\ElectroMVC\obj\Debug\net6.0\ElectroMVC.csproj.CopyComplete
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Server.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Web.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cors.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Features.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Results.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpLogging.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Identity.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Metadata.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Rewrite.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Session.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebSockets.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.CSharp.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Memory.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Json.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Features.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Http.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Core.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Stores.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Console.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Debug.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.ObjectPool.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Primitives.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.WebEncoders.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.JSInterop.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.Net.Http.Headers.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.VisualBasic.Core.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.VisualBasic.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.Win32.Primitives.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.Win32.Registry.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\mscorlib.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\netstandard.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.AppContext.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Buffers.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Collections.Concurrent.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Collections.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Collections.Immutable.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Collections.NonGeneric.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Collections.Specialized.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.ComponentModel.Annotations.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.ComponentModel.DataAnnotations.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.ComponentModel.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.ComponentModel.EventBasedAsync.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.ComponentModel.Primitives.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.ComponentModel.TypeConverter.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Configuration.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Console.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Core.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Data.Common.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Data.DataSetExtensions.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Data.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Diagnostics.Contracts.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Diagnostics.Debug.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Diagnostics.DiagnosticSource.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Diagnostics.EventLog.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Diagnostics.FileVersionInfo.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Diagnostics.Process.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Diagnostics.StackTrace.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Diagnostics.Tools.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Diagnostics.TraceSource.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Diagnostics.Tracing.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Drawing.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Drawing.Primitives.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Dynamic.Runtime.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Formats.Asn1.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Globalization.Calendars.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Globalization.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Globalization.Extensions.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.IO.Compression.Brotli.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.IO.Compression.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.IO.Compression.FileSystem.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.IO.Compression.ZipFile.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.IO.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.IO.FileSystem.AccessControl.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.IO.FileSystem.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.IO.FileSystem.DriveInfo.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.IO.FileSystem.Primitives.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.IO.FileSystem.Watcher.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.IO.IsolatedStorage.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.IO.MemoryMappedFiles.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.IO.Pipelines.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.IO.Pipes.AccessControl.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.IO.Pipes.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.IO.UnmanagedMemoryStream.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Linq.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Linq.Expressions.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Linq.Parallel.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Linq.Queryable.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Memory.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Net.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Net.Http.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Net.Http.Json.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Net.HttpListener.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Net.Mail.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Net.NameResolution.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Net.NetworkInformation.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Net.Ping.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Net.Primitives.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Net.Requests.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Net.Security.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Net.ServicePoint.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Net.Sockets.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Net.WebClient.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Net.WebHeaderCollection.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Net.WebProxy.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Net.WebSockets.Client.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Net.WebSockets.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Numerics.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Numerics.Vectors.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.ObjectModel.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Reflection.DispatchProxy.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Reflection.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Reflection.Emit.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Reflection.Emit.ILGeneration.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Reflection.Emit.Lightweight.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Reflection.Extensions.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Reflection.Metadata.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Reflection.Primitives.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Reflection.TypeExtensions.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Resources.Reader.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Resources.ResourceManager.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Resources.Writer.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.VisualC.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Runtime.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Runtime.Extensions.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Runtime.Handles.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Runtime.InteropServices.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Runtime.Intrinsics.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Runtime.Loader.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Runtime.Numerics.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Runtime.Serialization.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Runtime.Serialization.Formatters.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Runtime.Serialization.Json.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Runtime.Serialization.Primitives.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Runtime.Serialization.Xml.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Security.AccessControl.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Security.Claims.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Security.Cryptography.Algorithms.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Security.Cryptography.Cng.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Security.Cryptography.Csp.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Security.Cryptography.Encoding.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Security.Cryptography.OpenSsl.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Security.Cryptography.Primitives.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Security.Cryptography.X509Certificates.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Security.Cryptography.Xml.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Security.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Security.Principal.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Security.Principal.Windows.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Security.SecureString.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.ServiceModel.Web.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.ServiceProcess.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Text.Encoding.CodePages.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Text.Encoding.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Text.Encoding.Extensions.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Text.Encodings.Web.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Text.Json.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Text.RegularExpressions.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Threading.Channels.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Threading.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Threading.Overlapped.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Threading.Tasks.Dataflow.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Threading.Tasks.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Threading.Tasks.Extensions.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Threading.Tasks.Parallel.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Threading.Thread.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Threading.ThreadPool.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Threading.Timer.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Transactions.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Transactions.Local.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.ValueTuple.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Web.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Web.HttpUtility.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Windows.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Xml.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Xml.Linq.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Xml.ReaderWriter.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Xml.Serialization.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Xml.XDocument.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Xml.XmlDocument.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Xml.XmlSerializer.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Xml.XPath.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Xml.XPath.XDocument.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\WindowsBase.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\IT projects\ElectroMVC\ElectroMVC\obj\Debug\net6.0\ElectroMVC.MvcApplicationPartsAssemblyInfo.cs
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\obj\Debug\net6.0\ElectroMVC.csproj.AssemblyReference.cache
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\obj\Debug\net6.0\ElectroMVC.GeneratedMSBuildEditorConfig.editorconfig
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\obj\Debug\net6.0\ElectroMVC.AssemblyInfoInputs.cache
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\obj\Debug\net6.0\ElectroMVC.AssemblyInfo.cs
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\obj\Debug\net6.0\ElectroMVC.csproj.CoreCompileInputs.cache
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\obj\Debug\net6.0\ElectroMVC.MvcApplicationPartsAssemblyInfo.cs
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\obj\Debug\net6.0\ElectroMVC.MvcApplicationPartsAssemblyInfo.cache
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\obj\Debug\net6.0\ElectroMVC.RazorAssemblyInfo.cache
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\obj\Debug\net6.0\ElectroMVC.RazorAssemblyInfo.cs
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\obj\Debug\net6.0\staticwebassets\msbuild.ElectroMVC.Microsoft.AspNetCore.StaticWebAssets.props
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\obj\Debug\net6.0\staticwebassets\msbuild.build.ElectroMVC.props
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ElectroMVC.props
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ElectroMVC.props
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\obj\Debug\net6.0\staticwebassets.pack.json
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\obj\Debug\net6.0\staticwebassets.build.json
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\obj\Debug\net6.0\staticwebassets.development.json
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\obj\Debug\net6.0\scopedcss\bundle\ElectroMVC.styles.css
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\obj\Debug\net6.0\scopedcss\projectbundle\ElectroMVC.bundle.scp.css
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\obj\Debug\net6.0\ElectroMVC.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\obj\Debug\net6.0\refint\ElectroMVC.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\obj\Debug\net6.0\ElectroMVC.pdb
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\appsettings.Development.json
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\appsettings.json
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\ElectroMVC.staticwebassets.runtime.json
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\ElectroMVC.exe
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\ElectroMVC.deps.json
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\ElectroMVC.runtimeconfig.json
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\ElectroMVC.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\ElectroMVC.pdb
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Server.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Web.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cors.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Features.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Results.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpLogging.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Identity.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Metadata.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Rewrite.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Session.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebSockets.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.CSharp.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Memory.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Json.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Features.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Http.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Core.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Stores.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Console.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Debug.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.ObjectPool.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Primitives.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.WebEncoders.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.JSInterop.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.Net.Http.Headers.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.VisualBasic.Core.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.VisualBasic.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.Win32.Primitives.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\Microsoft.Win32.Registry.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\mscorlib.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\netstandard.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.AppContext.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Buffers.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Collections.Concurrent.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Collections.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Collections.Immutable.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Collections.NonGeneric.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Collections.Specialized.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.ComponentModel.Annotations.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.ComponentModel.DataAnnotations.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.ComponentModel.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.ComponentModel.EventBasedAsync.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.ComponentModel.Primitives.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.ComponentModel.TypeConverter.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Configuration.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Console.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Core.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Data.Common.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Data.DataSetExtensions.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Data.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Diagnostics.Contracts.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Diagnostics.Debug.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Diagnostics.DiagnosticSource.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Diagnostics.EventLog.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Diagnostics.FileVersionInfo.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Diagnostics.Process.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Diagnostics.StackTrace.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Diagnostics.Tools.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Diagnostics.TraceSource.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Diagnostics.Tracing.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Drawing.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Drawing.Primitives.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Dynamic.Runtime.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Formats.Asn1.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Globalization.Calendars.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Globalization.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Globalization.Extensions.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.IO.Compression.Brotli.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.IO.Compression.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.IO.Compression.FileSystem.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.IO.Compression.ZipFile.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.IO.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.IO.FileSystem.AccessControl.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.IO.FileSystem.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.IO.FileSystem.DriveInfo.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.IO.FileSystem.Primitives.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.IO.FileSystem.Watcher.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.IO.IsolatedStorage.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.IO.MemoryMappedFiles.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.IO.Pipelines.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.IO.Pipes.AccessControl.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.IO.Pipes.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.IO.UnmanagedMemoryStream.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Linq.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Linq.Expressions.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Linq.Parallel.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Linq.Queryable.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Memory.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Net.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Net.Http.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Net.Http.Json.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Net.HttpListener.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Net.Mail.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Net.NameResolution.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Net.NetworkInformation.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Net.Ping.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Net.Primitives.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Net.Requests.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Net.Security.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Net.ServicePoint.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Net.Sockets.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Net.WebClient.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Net.WebHeaderCollection.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Net.WebProxy.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Net.WebSockets.Client.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Net.WebSockets.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Numerics.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Numerics.Vectors.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.ObjectModel.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Reflection.DispatchProxy.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Reflection.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Reflection.Emit.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Reflection.Emit.ILGeneration.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Reflection.Emit.Lightweight.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Reflection.Extensions.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Reflection.Metadata.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Reflection.Primitives.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Reflection.TypeExtensions.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Resources.Reader.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Resources.ResourceManager.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Resources.Writer.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.VisualC.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Runtime.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Runtime.Extensions.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Runtime.Handles.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Runtime.InteropServices.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Runtime.Intrinsics.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Runtime.Loader.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Runtime.Numerics.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Runtime.Serialization.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Runtime.Serialization.Formatters.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Runtime.Serialization.Json.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Runtime.Serialization.Primitives.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Runtime.Serialization.Xml.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Security.AccessControl.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Security.Claims.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Security.Cryptography.Algorithms.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Security.Cryptography.Cng.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Security.Cryptography.Csp.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Security.Cryptography.Encoding.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Security.Cryptography.OpenSsl.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Security.Cryptography.Primitives.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Security.Cryptography.X509Certificates.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Security.Cryptography.Xml.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Security.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Security.Principal.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Security.Principal.Windows.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Security.SecureString.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.ServiceModel.Web.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.ServiceProcess.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Text.Encoding.CodePages.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Text.Encoding.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Text.Encoding.Extensions.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Text.Encodings.Web.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Text.Json.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Text.RegularExpressions.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Threading.Channels.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Threading.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Threading.Overlapped.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Threading.Tasks.Dataflow.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Threading.Tasks.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Threading.Tasks.Extensions.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Threading.Tasks.Parallel.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Threading.Thread.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Threading.ThreadPool.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Threading.Timer.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Transactions.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Transactions.Local.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.ValueTuple.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Web.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Web.HttpUtility.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Windows.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Xml.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Xml.Linq.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Xml.ReaderWriter.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Xml.Serialization.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Xml.XDocument.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Xml.XmlDocument.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Xml.XmlSerializer.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Xml.XPath.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\System.Xml.XPath.XDocument.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\refs\WindowsBase.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\Humanizer.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\MessagePack.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\MessagePack.Annotations.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\Microsoft.Build.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\Newtonsoft.Json.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\NuGet.Common.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\NuGet.Configuration.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\NuGet.Frameworks.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\NuGet.LibraryModel.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\NuGet.Packaging.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\NuGet.ProjectModel.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\NuGet.Protocol.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\NuGet.Versioning.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\System.Composition.Convention.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\System.Composition.Hosting.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\System.Composition.Runtime.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\System.Composition.TypedParts.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\System.Drawing.Common.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\System.Runtime.Caching.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\System.Security.Permissions.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\System.Windows.Extensions.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\obj\Debug\net6.0\ElectroMVC.csproj.CopyComplete
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\obj\Debug\net6.0\ElectroMVC.genruntimeconfig.cache
+M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\obj\Debug\net6.0\ref\ElectroMVC.dll

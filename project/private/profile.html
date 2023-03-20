@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Profile</title>
+    <meta charset="UTF-8">
+
+    <!-- Control viewport to make it responsive -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://kit.fontawesome.com/2d3183c700.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="/stylesheets/profile.css">
+    <script src="/javascripts/profile.js"></script>
+    <!-- Login with FB or Google -->
+    <script src="https://apis.google.com/js/platform.js" async defer></script>
+    <meta name="google-signin-client_id" content="161774089268-k284hobl8s1rlod3lsq91cnsjel25qhp.apps.googleusercontent.com">
+</head>
+
+<body onload="get_profile(); onLoad();">
+    <div class="topmenu">
+        <img src="/images/logo.png" alt="logo" class="logo">
+
+        <div class="menu">
+            <a class="history" href="/user_history">HISTORY</a>
+            <a class="contact" href="/contact">CONTACT US</a>
+        </div>
+    </div>
+
+    <div class="return">
+        <a class="return_btn" href="/user_homepage"> <i class="fas fa-home " ></i></a>
+
+    </div>
+
+    <div class="logout">
+        <a class="signout_btn" onclick="signOut()"> <i class="fas fa-sign-out-alt"></i></a>
+    </div>
+
+                <!------------------------------DISPLAY THE EDIT FORM-------------------------------->
+    <div class="main">
+        <div class="profile_form">
+            <div class="heading">
+                <h1><i class="fas fa-user-edit"></i></h1>
+            </div>
+
+            <form>
+                <div class="form_wrap">
+
+                    <!-- Name Group -->
+                    <div class="input_gr">
+
+                        <!-- First Name -->
+                        <div class="input_wrap">
+                            <label>First Name</label>
+                            <input type="text" id="firstname" required>
+                        </div>
+
+                        <!-- Last Name -->
+                        <div class="input_wrap">
+                            <label>Last Name</label>
+                            <input type="text" id="lastname" required>
+                        </div>
+                    </div>
+
+                    <!-- Age & Phone No. Group -->
+                    <div class="input_gr">
+
+                        <!-- Age -->
+                        <div class="input_wrap">
+                            <label>Age</label>
+                            <input type="number" id="age" required>
+                        </div>
+
+                        <!-- Phone No. -->
+                        <div class="input_wrap">
+                            <label>Phone Number</label>
+                            <input type="text" id="phone" required>
+                        </div>
+                    </div>
+
+                    <!-- Email -->
+                    <div class="input_wrap">
+                        <label>Email </label>
+                        <input type="text" id="email" required>
+                    </div>
+
+                    <!-- User Type -->
+                    <div class="input_wrap">
+                        <label>User Type </label>
+                        <input type="text" id="usertype" disabled>
+                    </div>
+
+                    <!-- Street -->
+                    <div class="input_wrap">
+                        <label>Street </label>
+                        <input type="text" id="street" required>
+                    </div>
+
+                    <!-- Address Group 1 -->
+                    <div class="input_gr">
+
+                        <!-- Suburb -->
+                        <div class="input_wrap">
+                            <label>Suburb</label>
+                            <input type="text" id="suburb" required>
+                        </div>
+
+                        <!-- City -->
+                        <div class="input_wrap">
+                            <label>City</label>
+                            <input type="text" id="city" required>
+                        </div>
+                    </div>
+
+                    <!-- Address Group 2 -->
+                    <div class="input_gr">
+
+                        <!-- State -->
+                        <div class="input_wrap">
+                            <label>State</label>
+                            <input type="text" id="state" required>
+                        </div>
+
+                        <!-- Postcode -->
+                        <div class="input_wrap">
+                            <label>Postcode</label>
+                            <input type="number" id="postcode" required>
+                        </div>
+                    </div>
+
+                    <!-- User Name & Password Group -->
+                    <!--<div class="input_gr">-->
+
+                        <!-- User Name -->
+                        <div class="input_wrap">
+                            <label>User Name</label>
+                            <input type="text" id="username" required>
+                        </div>
+
+                        <!-- Password -->
+                    <!--    <div class="input_wrap">-->
+                    <!--        <label>Password</label>-->
+                    <!--        <div class="icon_input">-->
+                    <!--            <input type="password" id="password" required>-->
+                    <!--            <button type="button" id="show_pw" onclick="showpassword()"><i class="far fa-eye"></i></button>-->
+                    <!--            </div>-->
+                    <!--    </div>-->
+                    <!--</div>-->
+
+                    <div class="input_wrap">
+                        <button type="button" class="submit_btn" onclick="edit_profile()">SAVE CHANGES</button>
+                    </div>
+
+
+                     <p>Change your password here <a class="login" onclick="show_pw_box()"> <i class="fas fa-key"></i> </a>  </p>
+
+                </div>
+            </form>
+        </div>
+
+        <div id="myModal" class="modal" style="display:none">
+            <div class="modal-content">
+
+                <div class="modal-header">
+                    <span class="close" onclick="close_me()">&times;</span>
+                    <p id="res">  </p>
+                    <div id="pw"> </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+
+
+</body>
+</html>

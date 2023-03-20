@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Choices</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="/stylesheets/style.css">
+        <script src="javascripts/signup.js" defer></script>
+        <!--<script>-->
+        <!--    function redirect() {-->
+        <!--        var x = document.getElementById("role").value;-->
+        <!--        if (x=='user'){-->
+        <!--            window.location.replace("/user_homepage");-->
+        <!--        } else{-->
+        <!--            window.location.replace("/owner_homepage");-->
+        <!--        }-->
+        <!--    }-->
+        <!--</script>-->
+    </head>
+    <body>
+        <header>
+            <div class="signup_form">
+                <div class="logo_frame">
+                    <img class="logo" src="/images/logo.png" alt="covidfy">
+                </div>
+
+                <div class="heading">
+                    <h2 class="ROLE"> ADDITIONAL INFO </h2>
+                </div>
+                <form>
+                    <div class="form_wrap">
+                        <!--GROUP INPUT-->
+                        <div class="input_gr">
+                            <div class="input_wrap">
+                                <label>Age</label>
+                                <input type="number" id="age" required>
+                            </div>
+                            <div class="input_wrap">
+                                <label>Phone Number</label>
+                                <input type="tel" id="phone" required>
+                            </div>
+                        <!-- END GROUP INPUT-->
+                        </div>
+
+                        <div class="choices">
+                            <label> User Type </label>
+                            <select name="roles" id="usertype" required>
+                                <option value="User">User</option>
+                                <option value="Owner">Venue Owner/Manager</option>
+                            </select>
+                        </div>
+
+                        <div class="input_wrap">
+                            <label>Street </label>
+                            <input type="text" id="street" required>
+                        </div>
+
+                        <!--GROUP INPUT-->
+                        <div class="input_gr">
+                            <div class="input_wrap">
+                                <label>Suburb</label>
+                                <input type="text" id="suburb" required>
+                            </div>
+                            <div class="input_wrap">
+                                <label>City</label>
+                                <input type="text" id="city" required>
+                            </div>
+
+                        <!-- END GROUP INPUT-->
+                        </div>
+
+                        <!--GROUP INPUT-->
+                        <div class="input_gr">
+                            <div class="input_wrap">
+                                <label>State</label>
+                                <input type="text" id="state" required>
+                            </div>
+                            <div class="input_wrap">
+                                <label>Postcode</label>
+                                <input type="number" id="postcode" required>
+                            </div>
+
+                        <!-- END GROUP INPUT-->
+                        </div>
+
+                        <div class="input_wrap">
+                            <button type="button" class="submit_btn" onclick="extra_info()"> SUBMIT</button>
+                        </div>
+
+                        <p>Already have an account? <a class="login" href="/"> LOG IN</a>  </p>
+                    </div>
+                </form>
+
+
+             </div>
+
+             <div id="myModal" class="modal" style="display:none">
+                <div class="modal-content">
+
+                    <div class="modal-header">
+                        <span class="close" onclick="close_me()">&times;</span>
+                        <p id="res">  </p>
+                    </div>
+
+
+                </div>
+            </div>
+
+         </header>
+    </body>
+</html>

@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Home</title>
+    <meta charset="UTF-8">
+
+    <!-- Control viewport to make it responsive -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="/stylesheets/ownerhome.css">
+
+    <script src='https://api.mapbox.com/mapbox-gl-js/v2.2.0/mapbox-gl.js'></script>
+    <link href='https://api.mapbox.com/mapbox-gl-js/v2.2.0/mapbox-gl.css' rel='stylesheet' />
+    <script src="/javascripts/owner_homepage.js" defer> </script>
+
+    <!-- Login with FB or Google -->
+    <script src="https://apis.google.com/js/platform.js" async defer></script>
+    <meta name="google-signin-client_id" content="161774089268-k284hobl8s1rlod3lsq91cnsjel25qhp.apps.googleusercontent.com">
+
+
+</head>
+
+<body onload="msg_pop();onLoad();" onclick="msg_close()">
+
+    <div class="topmenu">
+        <img src="/images/logo.png" alt="logo" class="logo">
+
+        <div class="menu">
+            <a class="profile" href="/profile">PROFILE</a>
+            <a class="history" href="#">HISTORY</a>
+            <a class="contact" href="/contact">CONTACT US</a>
+        </div>
+    </div>
+
+
+
+    <div id="myModal" class="modal" style="display:none">
+        <div class="modal-content">
+
+            <div class="modal-header">
+                <span class="close" onclick="msg_close()">&times;</span>
+                <h1> Welcome to Covidfy </h1>
+
+            </div>
+
+            <div class="modal-body">
+                <h2> Would you like to register your Shop? </h2>
+            </div>
+
+            <div class="modal-footer">
+              <button id="makeshop" onclick="venue_signup()"> <b>YES</b> </button>
+            </div>
+
+        </div>
+    </div>
+
+    <div class="main">
+        <div id="map"></div>
+
+        <div class="infovenue">
+            <p>LOCATION NAME: </p>
+            <p>NUMBER PEOPLE CHECKED IN: </p>
+            <a id= "details" class="details" href="#">CLICK FOR DETAILS</a>
+
+        </div>
+
+        <button onclick="signOut()"> SIGN OUT </button>
+        <button onclick="goBack()">Go Back</button>
+    </div>
+
+
+</body>
+</html>

@@ -1,0 +1,133 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = EcommerceWeb
+build_property.RootNamespace = EcommerceWeb
+build_property.ProjectDir = M:\Personal Documents\Personal IT projects\EcommerceWeb\EcommerceWeb\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = M:\Personal Documents\Personal IT projects\EcommerceWeb\EcommerceWeb
+build_property._RazorSourceGeneratorDebug = 
+
+[M:/Personal Documents/Personal IT projects/EcommerceWeb/EcommerceWeb/Views/Home/ChiTietSanPham.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDaGlUaWV0U2FuUGhhbS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/Personal Documents/Personal IT projects/EcommerceWeb/EcommerceWeb/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/Personal Documents/Personal IT projects/EcommerceWeb/EcommerceWeb/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/Personal Documents/Personal IT projects/EcommerceWeb/EcommerceWeb/Views/Home/ProductDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcm9kdWN0RGV0YWlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/Personal Documents/Personal IT projects/EcommerceWeb/EcommerceWeb/Views/Home/SanPhamTheoLoai.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTYW5QaGFtVGhlb0xvYWkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/Personal Documents/Personal IT projects/EcommerceWeb/EcommerceWeb/Views/Shared/Components/LoaiSpMenu/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcTG9haVNwTWVudVxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/Personal Documents/Personal IT projects/EcommerceWeb/EcommerceWeb/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/Personal Documents/Personal IT projects/EcommerceWeb/EcommerceWeb/Views/Shared/PartialSanPham.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWxTYW5QaGFtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/Personal Documents/Personal IT projects/EcommerceWeb/EcommerceWeb/Views/Shared/_AdminLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BZG1pbkxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/Personal Documents/Personal IT projects/EcommerceWeb/EcommerceWeb/Views/Shared/_LayoutOgani.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRPZ2FuaS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/Personal Documents/Personal IT projects/EcommerceWeb/EcommerceWeb/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/Personal Documents/Personal IT projects/EcommerceWeb/EcommerceWeb/Views/TDanhMucSps/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVERhbmhNdWNTcHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/Personal Documents/Personal IT projects/EcommerceWeb/EcommerceWeb/Views/TDanhMucSps/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVERhbmhNdWNTcHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/Personal Documents/Personal IT projects/EcommerceWeb/EcommerceWeb/Views/TDanhMucSps/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVERhbmhNdWNTcHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/Personal Documents/Personal IT projects/EcommerceWeb/EcommerceWeb/Views/TDanhMucSps/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVERhbmhNdWNTcHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/Personal Documents/Personal IT projects/EcommerceWeb/EcommerceWeb/Views/TDanhMucSps/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVERhbmhNdWNTcHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/Personal Documents/Personal IT projects/EcommerceWeb/EcommerceWeb/Views/TLoaiSps/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVExvYWlTcHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/Personal Documents/Personal IT projects/EcommerceWeb/EcommerceWeb/Views/TLoaiSps/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVExvYWlTcHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/Personal Documents/Personal IT projects/EcommerceWeb/EcommerceWeb/Views/TLoaiSps/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVExvYWlTcHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/Personal Documents/Personal IT projects/EcommerceWeb/EcommerceWeb/Views/TLoaiSps/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVExvYWlTcHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/Personal Documents/Personal IT projects/EcommerceWeb/EcommerceWeb/Views/TLoaiSps/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVExvYWlTcHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/Personal Documents/Personal IT projects/EcommerceWeb/EcommerceWeb/Views/TUsers/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVFVzZXJzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/Personal Documents/Personal IT projects/EcommerceWeb/EcommerceWeb/Views/TUsers/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVFVzZXJzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/Personal Documents/Personal IT projects/EcommerceWeb/EcommerceWeb/Views/TUsers/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVFVzZXJzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/Personal Documents/Personal IT projects/EcommerceWeb/EcommerceWeb/Views/TUsers/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVFVzZXJzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/Personal Documents/Personal IT projects/EcommerceWeb/EcommerceWeb/Views/TUsers/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVFVzZXJzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/Personal Documents/Personal IT projects/EcommerceWeb/EcommerceWeb/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/Personal Documents/Personal IT projects/EcommerceWeb/EcommerceWeb/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/Personal Documents/Personal IT projects/EcommerceWeb/EcommerceWeb/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-rsvuveu5x3

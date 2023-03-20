@@ -1,0 +1,417 @@
+{
+  "Files": [
+    {
+      "Id": "M:\\Personal Documents\\Personal IT projects\\ElectroMVC\\ElectroMVC\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ElectroMVC.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ElectroMVC.bundle.scp.css"
+    },
+    {
+      "Id": "M:\\Personal Documents\\Personal IT projects\\ElectroMVC\\ElectroMVC\\wwwroot\\LayoutStyle\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\LayoutStyle\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "M:\\Personal Documents\\Personal IT projects\\ElectroMVC\\ElectroMVC\\wwwroot\\LayoutStyle\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\LayoutStyle\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "M:\\Personal Documents\\Personal IT projects\\ElectroMVC\\ElectroMVC\\wwwroot\\LayoutStyle\\css\\nouislider.min.css",
+      "PackagePath": "staticwebassets\\LayoutStyle\\css\\nouislider.min.css"
+    },
+    {
+      "Id": "M:\\Personal Documents\\Personal IT projects\\ElectroMVC\\ElectroMVC\\wwwroot\\LayoutStyle\\css\\slick-theme.css",
+      "PackagePath": "staticwebassets\\LayoutStyle\\css\\slick-theme.css"
+    },
+    {
+      "Id": "M:\\Personal Documents\\Personal IT projects\\ElectroMVC\\ElectroMVC\\wwwroot\\LayoutStyle\\css\\slick.css",
+      "PackagePath": "staticwebassets\\LayoutStyle\\css\\slick.css"
+    },
+    {
+      "Id": "M:\\Personal Documents\\Personal IT projects\\ElectroMVC\\ElectroMVC\\wwwroot\\LayoutStyle\\css\\style.css",
+      "PackagePath": "staticwebassets\\LayoutStyle\\css\\style.css"
+    },
+    {
+      "Id": "M:\\Personal Documents\\Personal IT projects\\ElectroMVC\\ElectroMVC\\wwwroot\\LayoutStyle\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\LayoutStyle\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "M:\\Personal Documents\\Personal IT projects\\ElectroMVC\\ElectroMVC\\wwwroot\\LayoutStyle\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\LayoutStyle\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "M:\\Personal Documents\\Personal IT projects\\ElectroMVC\\ElectroMVC\\wwwroot\\LayoutStyle\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\LayoutStyle\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "M:\\Personal Documents\\Personal IT projects\\ElectroMVC\\ElectroMVC\\wwwroot\\LayoutStyle\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\LayoutStyle\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "M:\\Personal Documents\\Personal IT projects\\ElectroMVC\\ElectroMVC\\wwwroot\\LayoutStyle\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\LayoutStyle\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "M:\\Personal Documents\\Personal IT projects\\ElectroMVC\\ElectroMVC\\wwwroot\\LayoutStyle\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\LayoutStyle\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "M:\\Personal Documents\\Personal IT projects\\ElectroMVC\\ElectroMVC\\wwwroot\\LayoutStyle\\fonts\\slick.eot",
+      "PackagePath": "staticwebassets\\LayoutStyle\\fonts\\slick.eot"
+    },
+    {
+      "Id": "M:\\Personal Documents\\Personal IT projects\\ElectroMVC\\ElectroMVC\\wwwroot\\LayoutStyle\\fonts\\slick.svg",
+      "PackagePath": "staticwebassets\\LayoutStyle\\fonts\\slick.svg"
+    },
+    {
+      "Id": "M:\\Personal Documents\\Personal IT projects\\ElectroMVC\\ElectroMVC\\wwwroot\\LayoutStyle\\fonts\\slick.ttf",
+      "PackagePath": "staticwebassets\\LayoutStyle\\fonts\\slick.ttf"
+    },
+    {
+      "Id": "M:\\Personal Documents\\Personal IT projects\\ElectroMVC\\ElectroMVC\\wwwroot\\LayoutStyle\\fonts\\slick.woff",
+      "PackagePath": "staticwebassets\\LayoutStyle\\fonts\\slick.woff"
+    },
+    {
+      "Id": "M:\\Personal Documents\\Personal IT projects\\ElectroMVC\\ElectroMVC\\wwwroot\\LayoutStyle\\img\\Z-flip.jpg",
+      "PackagePath": "staticwebassets\\LayoutStyle\\img\\Z-flip.jpg"
+    },
+    {
+      "Id": "M:\\Personal Documents\\Personal IT projects\\ElectroMVC\\ElectroMVC\\wwwroot\\LayoutStyle\\img\\hotdeal.png",
+      "PackagePath": "staticwebassets\\LayoutStyle\\img\\hotdeal.png"
+    },
+    {
+      "Id": "M:\\Personal Documents\\Personal IT projects\\ElectroMVC\\ElectroMVC\\wwwroot\\LayoutStyle\\img\\logo.png",
+      "PackagePath": "staticwebassets\\LayoutStyle\\img\\logo.png"
+    },
+    {
+      "Id": "M:\\Personal Documents\\Personal IT projects\\ElectroMVC\\ElectroMVC\\wwwroot\\LayoutStyle\\img\\product01.png",
+      "PackagePath": "staticwebassets\\LayoutStyle\\img\\product01.png"
+    },
+    {
+      "Id": "M:\\Personal Documents\\Personal IT projects\\ElectroMVC\\ElectroMVC\\wwwroot\\LayoutStyle\\img\\product02.png",
+      "PackagePath": "staticwebassets\\LayoutStyle\\img\\product02.png"
+    },
+    {
+      "Id": "M:\\Personal Documents\\Personal IT projects\\ElectroMVC\\ElectroMVC\\wwwroot\\LayoutStyle\\img\\product03.png",
+      "PackagePath": "staticwebassets\\LayoutStyle\\img\\product03.png"
+    },
+    {
+      "Id": "M:\\Personal Documents\\Personal IT projects\\ElectroMVC\\ElectroMVC\\wwwroot\\LayoutStyle\\img\\product04.png",
+      "PackagePath": "staticwebassets\\LayoutStyle\\img\\product04.png"
+    },
+    {
+      "Id": "M:\\Personal Documents\\Personal IT projects\\ElectroMVC\\ElectroMVC\\wwwroot\\LayoutStyle\\img\\product05.png",
+      "PackagePath": "staticwebassets\\LayoutStyle\\img\\product05.png"
+    },
+    {
+      "Id": "M:\\Personal Documents\\Personal IT projects\\ElectroMVC\\ElectroMVC\\wwwroot\\LayoutStyle\\img\\product06.png",
+      "PackagePath": "staticwebassets\\LayoutStyle\\img\\product06.png"
+    },
+    {
+      "Id": "M:\\Personal Documents\\Personal IT projects\\ElectroMVC\\ElectroMVC\\wwwroot\\LayoutStyle\\img\\product07.png",
+      "PackagePath": "staticwebassets\\LayoutStyle\\img\\product07.png"
+    },
+    {
+      "Id": "M:\\Personal Documents\\Personal IT projects\\ElectroMVC\\ElectroMVC\\wwwroot\\LayoutStyle\\img\\product08.png",
+      "PackagePath": "staticwebassets\\LayoutStyle\\img\\product08.png"
+    },
+    {
+      "Id": "M:\\Personal Documents\\Personal IT projects\\ElectroMVC\\ElectroMVC\\wwwroot\\LayoutStyle\\img\\product09.png",
+      "PackagePath": "staticwebassets\\LayoutStyle\\img\\product09.png"
+    },
+    {
+      "Id": "M:\\Personal Documents\\Personal IT projects\\ElectroMVC\\ElectroMVC\\wwwroot\\LayoutStyle\\img\\shop01.png",
+      "PackagePath": "staticwebassets\\LayoutStyle\\img\\shop01.png"
+    },
+    {
+      "Id": "M:\\Personal Documents\\Personal IT projects\\ElectroMVC\\ElectroMVC\\wwwroot\\LayoutStyle\\img\\shop02.png",
+      "PackagePath": "staticwebassets\\LayoutStyle\\img\\shop02.png"
+    },
+    {
+      "Id": "M:\\Personal Documents\\Personal IT projects\\ElectroMVC\\ElectroMVC\\wwwroot\\LayoutStyle\\img\\shop03.png",
+      "PackagePath": "staticwebassets\\LayoutStyle\\img\\shop03.png"
+    },
+    {
+      "Id": "M:\\Personal Documents\\Personal IT projects\\ElectroMVC\\ElectroMVC\\wwwroot\\LayoutStyle\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\LayoutStyle\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "M:\\Personal Documents\\Personal IT projects\\ElectroMVC\\ElectroMVC\\wwwroot\\LayoutStyle\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\LayoutStyle\\js\\jquery.min.js"
+    },
+    {
+      "Id": "M:\\Personal Documents\\Personal IT projects\\ElectroMVC\\ElectroMVC\\wwwroot\\LayoutStyle\\js\\jquery.zoom.min.js",
+      "PackagePath": "staticwebassets\\LayoutStyle\\js\\jquery.zoom.min.js"
+    },
+    {
+      "Id": "M:\\Personal Documents\\Personal IT projects\\ElectroMVC\\ElectroMVC\\wwwroot\\LayoutStyle\\js\\main.js",
+      "PackagePath": "staticwebassets\\LayoutStyle\\js\\main.js"
+    },
+    {
+      "Id": "M:\\Personal Documents\\Personal IT projects\\ElectroMVC\\ElectroMVC\\wwwroot\\LayoutStyle\\js\\nouislider.min.js",
+      "PackagePath": "staticwebassets\\LayoutStyle\\js\\nouislider.min.js"
+    },
+    {
+      "Id": "M:\\Personal Documents\\Personal IT projects\\ElectroMVC\\ElectroMVC\\wwwroot\\LayoutStyle\\js\\slick.min.js",
+      "PackagePath": "staticwebassets\\LayoutStyle\\js\\slick.min.js"
+    },
+    {
+      "Id": "M:\\Personal Documents\\Personal IT projects\\ElectroMVC\\ElectroMVC\\wwwroot\\css\\login.css",
+      "PackagePath": "staticwebassets\\css\\login.css"
+    },
+    {
+      "Id": "M:\\Personal Documents\\Personal IT projects\\ElectroMVC\\ElectroMVC\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "M:\\Personal Documents\\Personal IT projects\\ElectroMVC\\ElectroMVC\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "M:\\Personal Documents\\Personal IT projects\\ElectroMVC\\ElectroMVC\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "M:\\Personal Documents\\Personal IT projects\\ElectroMVC\\ElectroMVC\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "M:\\Personal Documents\\Personal IT projects\\ElectroMVC\\ElectroMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "M:\\Personal Documents\\Personal IT projects\\ElectroMVC\\ElectroMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "M:\\Personal Documents\\Personal IT projects\\ElectroMVC\\ElectroMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "M:\\Personal Documents\\Personal IT projects\\ElectroMVC\\ElectroMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "M:\\Personal Documents\\Personal IT projects\\ElectroMVC\\ElectroMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "M:\\Personal Documents\\Personal IT projects\\ElectroMVC\\ElectroMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "M:\\Personal Documents\\Personal IT projects\\ElectroMVC\\ElectroMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "M:\\Personal Documents\\Personal IT projects\\ElectroMVC\\ElectroMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "M:\\Personal Documents\\Personal IT projects\\ElectroMVC\\ElectroMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "M:\\Personal Documents\\Personal IT projects\\ElectroMVC\\ElectroMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "M:\\Personal Documents\\Personal IT projects\\ElectroMVC\\ElectroMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "M:\\Personal Documents\\Personal IT projects\\ElectroMVC\\ElectroMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "M:\\Personal Documents\\Personal IT projects\\ElectroMVC\\ElectroMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "M:\\Personal Documents\\Personal IT projects\\ElectroMVC\\ElectroMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "M:\\Personal Documents\\Personal IT projects\\ElectroMVC\\ElectroMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "M:\\Personal Documents\\Personal IT projects\\ElectroMVC\\ElectroMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "M:\\Personal Documents\\Personal IT projects\\ElectroMVC\\ElectroMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "M:\\Personal Documents\\Personal IT projects\\ElectroMVC\\ElectroMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "M:\\Personal Documents\\Personal IT projects\\ElectroMVC\\ElectroMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "M:\\Personal Documents\\Personal IT projects\\ElectroMVC\\ElectroMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "M:\\Personal Documents\\Personal IT projects\\ElectroMVC\\ElectroMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "M:\\Personal Documents\\Personal IT projects\\ElectroMVC\\ElectroMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "M:\\Personal Documents\\Personal IT projects\\ElectroMVC\\ElectroMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "M:\\Personal Documents\\Personal IT projects\\ElectroMVC\\ElectroMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "M:\\Personal Documents\\Personal IT projects\\ElectroMVC\\ElectroMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "M:\\Personal Documents\\Personal IT projects\\ElectroMVC\\ElectroMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "M:\\Personal Documents\\Personal IT projects\\ElectroMVC\\ElectroMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "M:\\Personal Documents\\Personal IT projects\\ElectroMVC\\ElectroMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "M:\\Personal Documents\\Personal IT projects\\ElectroMVC\\ElectroMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "M:\\Personal Documents\\Personal IT projects\\ElectroMVC\\ElectroMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "M:\\Personal Documents\\Personal IT projects\\ElectroMVC\\ElectroMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "M:\\Personal Documents\\Personal IT projects\\ElectroMVC\\ElectroMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "M:\\Personal Documents\\Personal IT projects\\ElectroMVC\\ElectroMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "M:\\Personal Documents\\Personal IT projects\\ElectroMVC\\ElectroMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "M:\\Personal Documents\\Personal IT projects\\ElectroMVC\\ElectroMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "M:\\Personal Documents\\Personal IT projects\\ElectroMVC\\ElectroMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "M:\\Personal Documents\\Personal IT projects\\ElectroMVC\\ElectroMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "M:\\Personal Documents\\Personal IT projects\\ElectroMVC\\ElectroMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "M:\\Personal Documents\\Personal IT projects\\ElectroMVC\\ElectroMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "M:\\Personal Documents\\Personal IT projects\\ElectroMVC\\ElectroMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "M:\\Personal Documents\\Personal IT projects\\ElectroMVC\\ElectroMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "M:\\Personal Documents\\Personal IT projects\\ElectroMVC\\ElectroMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "M:\\Personal Documents\\Personal IT projects\\ElectroMVC\\ElectroMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "M:\\Personal Documents\\Personal IT projects\\ElectroMVC\\ElectroMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "M:\\Personal Documents\\Personal IT projects\\ElectroMVC\\ElectroMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "M:\\Personal Documents\\Personal IT projects\\ElectroMVC\\ElectroMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "M:\\Personal Documents\\Personal IT projects\\ElectroMVC\\ElectroMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "M:\\Personal Documents\\Personal IT projects\\ElectroMVC\\ElectroMVC\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "M:\\Personal Documents\\Personal IT projects\\ElectroMVC\\ElectroMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "M:\\Personal Documents\\Personal IT projects\\ElectroMVC\\ElectroMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "M:\\Personal Documents\\Personal IT projects\\ElectroMVC\\ElectroMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "M:\\Personal Documents\\Personal IT projects\\ElectroMVC\\ElectroMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "M:\\Personal Documents\\Personal IT projects\\ElectroMVC\\ElectroMVC\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "M:\\Personal Documents\\Personal IT projects\\ElectroMVC\\ElectroMVC\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "M:\\Personal Documents\\Personal IT projects\\ElectroMVC\\ElectroMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "M:\\Personal Documents\\Personal IT projects\\ElectroMVC\\ElectroMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.ElectroMVC.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.ElectroMVC.props",
+      "PackagePath": "build\\ElectroMVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.ElectroMVC.props",
+      "PackagePath": "buildMultiTargeting\\ElectroMVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.ElectroMVC.props",
+      "PackagePath": "buildTransitive\\ElectroMVC.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>User History</title>
+
+        <!-- Control viewport to make it responsive -->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+        <link rel="stylesheet" href="/stylesheets/history.css">
+        <script src="/javascripts/user_homepage.js" defer> </script>
+
+    </head>
+
+    <body onload="get_history()">
+        <div class="topmenu">
+            <img src="/images/logo.png" alt="logo" class="logo">
+
+            <div class="menu">
+                <a class="profile" href="/profile">PROFILE</a>
+                <a class="history" href="/user_history">HISTORY</a>
+                <a class="contact" href="/contact">CONTACT US</a>
+            </div>
+        </div>
+
+        <div class="table">
+            <table id="title">
+                <thead>
+                    <tr>
+                        <th>TIME</th>
+                        <th>LOCATION</th>
+                        <th>STREET</th>
+                        <th>SUBURB</th>
+                        <th>CITY</th>
+                        <th>STATE</th>
+                        <th>POSTCODE</th>
+                    </tr>
+                </thead>
+
+                <tbody id="info_list">
+                    <!--<td>Monday, 12 April 2021</td>-->
+                    <!--<td>University of Adelaide</td>-->
+                    <!--<td>Monday, 12 April 2021</td>-->
+                    <!--<td>University of Adelaide</td>-->
+                    <!--<td>Monday, 12 April 2021</td>-->
+                    <!--<td>University of Adelaide</td>-->
+                    <!--<td>Monday, 12 April 2021</td>-->
+                </tbody>
+            </table>
+        </div>
+

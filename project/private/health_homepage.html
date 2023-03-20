@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Hotspot</title>
+    <meta charset="UTF-8">
+
+    <!-- Control viewport to make it responsive -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- CSS LINK -->
+    <link rel="stylesheet" href="/stylesheets/home.css">
+
+    <!-- Mapbox -->
+    <script src='https://api.mapbox.com/mapbox-gl-js/v2.2.0/mapbox-gl.js'></script>
+    <link href='https://api.mapbox.com/mapbox-gl-js/v2.2.0/mapbox-gl.css' rel='stylesheet' />
+
+    <!-- Mapbox-gl-draw-plugin -->
+    <script src="https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-draw/v1.2.2/mapbox-gl-draw.js"></script>
+    <link rel="stylesheet" href="https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-draw/v1.2.2/mapbox-gl-draw.css" type="text/css">
+    <script src="https://unpkg.com/@turf/turf@6/turf.min.js"></script>
+
+    <!-- JS LINK -->
+    <script src="/javascripts/health_homepage.js" defer> </script>
+
+    <!-- Login with FB or Google -->
+    <script src="https://apis.google.com/js/platform.js" async defer></script>
+    <meta name="google-signin-client_id" content="161774089268-k284hobl8s1rlod3lsq91cnsjel25qhp.apps.googleusercontent.com">
+
+</head>
+
+<body onload = "get_hotspot(); onLoad(); show_hotspots();">
+    <div class="topmenu">
+        <img src="/images/logo.png" alt="logo" class="logo">
+
+        <div class="menu">
+            <a class="profile" href="/profile">PROFILE</a>
+            <a class="signup" href="/health_signup">SIGN UP</a>
+            <a class="users&venues" href="#">USERS & VENUES</a>
+            <a class="contact" href="/contact">CONTACT US</a>
+        </div>
+    </div>
+
+    <div class="main">
+        <div id="map"></div>
+
+
+        <div class="infoblock">
+            <p class="detailsheading" align="center">COVID HOTSPOTS</p>
+            <hr>
+
+            <div class="infodiv">
+                <p>Total area of the selected hotspots</p>
+                <div class="info" id="calculated-area"> </div>
+
+
+
+            </div>
+            <button type="button" class="checkinbutton" onclick="save_changes()">Save Changes</button>
+
+            <button onclick="signOut()"> SIGN OUT </button>
+            <button onclick="goBack()">Go Back</button>
+        </div>
+
+    </div>
+
+    <div id="myModal" class="modal" style="display:none">
+        <div class="modal-content">
+
+            <div class="modal-header">
+                <span class="close" onclick="close_me()">&times;</span>
+                <p id="res">  </p>
+            </div>
+
+
+        </div>
+    </div>
+
+</body>
+</html>

@@ -1,0 +1,178 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600&display=swap');
+
+* {
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    background-color: #173864;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.logo {
+    width: 17rem;
+    display: block;
+    margin: auto;
+    float: left;
+}
+
+.topmenu {
+    width: auto;
+    height: 8rem;
+}
+
+.menu {
+    padding-top: 15px;
+    float: right;
+}
+
+.menu a {
+    float: left;
+    color: #fff;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 15px;
+}
+
+
+
+#map {
+    width: 90%;
+    height: 60vh;
+    max-width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.infovenue {
+  color: white;
+  text-align: center;
+}
+
+.main {
+    height: auto;
+    width: 100%;
+    justify-content: center;
+    position: absolute;
+}
+
+hr {
+    border: 3px solid #173864;
+}
+
+
+#details{
+  color: white;
+  text-decoration: underline;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    color: red;
+    text-decoration: underline;
+}
+
+.modal {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%; /* Full width */
+  height: 60vh; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  -webkit-animation-name: fadeIn; /* Fade in the background */
+  -webkit-animation-duration: 0.4s;
+  animation-name: fadeIn;
+  animation-duration: 0.4s;
+}
+
+/* Modal Content */
+.modal-content {
+  max-width: 600px;
+  width: 100%;
+  -webkit-animation-name: slideIn;
+  -webkit-animation-duration: 0.4s;
+  animation-name: slideIn;
+  animation-duration: 0.4s
+}
+
+/* The Close Button */
+.close {
+  color: white;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.modal-header {
+  padding: 2px 16px;
+  background-color: #95b7ed;
+  color: #fff;
+  text-align: center;
+}
+
+.modal-body {
+  padding: 15px 16px;
+  background:#fff;
+  text-align: center;
+  color: #173864;
+}
+
+.modal-footer {
+  padding: 15px 16px;
+  background-color: #95b7ed;
+  color: white;
+  text-align: center;
+}
+
+#makeshop {
+  cursor: pointer;
+  width: 4rem;
+  height: 2rem;
+  border-radius: 2px;
+  color: #fff;
+  font-weight: 600;
+  font-size: 15px;
+  /*gradient background example*/
+  /*background: linear-gradient(to right, #173864, #95b7ed);*/
+  background-color: #173864;
+  border: 2px solid #173864;
+}
+
+/* Add Animation */
+@-webkit-keyframes slideIn {
+  from {bottom: -300px; opacity: 0}
+  to {bottom: 0; opacity: 1}
+}
+
+@keyframes slideIn {
+  from {bottom: -300px; opacity: 0}
+  to {bottom: 0; opacity: 1}
+}
+
+@-webkit-keyframes fadeIn {
+  from {opacity: 0}
+  to {opacity: 1}
+}
+
+@keyframes fadeIn {
+  from {opacity: 0}
+  to {opacity: 1}
+}

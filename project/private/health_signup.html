@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Sign up page</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="/stylesheets/style.css">
+        <script src="https://kit.fontawesome.com/2d3183c700.js" crossorigin="anonymous"></script>
+        <script src="/javascripts/signup.js"></script>
+    </head>
+
+    <body>
+
+        <header>
+            <div class="signup_form">
+                <div class="logo_frame">
+                    <img class="logo" src="/images/logo.png" alt="covidfy">
+                </div>
+                <div class="heading">
+                    <h1> HEALTH SIGN UP </h1>
+                </div>
+
+                <form>
+
+                    <div class="form_wrap">
+                        <!--GROUP INPUT-->
+                        <div class="input_gr">
+                            <div class="input_wrap">
+                                <label>First Name</label>
+                                <input type="text" id="firstname" required>
+                            </div>
+                            <div class="input_wrap">
+                                <label>Last Name</label>
+                                <input type="text" id="lastname" required>
+                            </div>
+                        <!-- END GROUP INPUT-->
+                        </div>
+
+                      <!--GROUP INPUT-->
+                        <div class="input_gr">
+                            <div class="input_wrap">
+                                <label>Age</label>
+                                <input type="number" id="age" required>
+                            </div>
+                            <div class="input_wrap">
+                                <label>Phone Number</label>
+                                <input type="tel" id="phone" required>
+                            </div>
+                        <!-- END GROUP INPUT-->
+                        </div>
+
+                        <div class="input_wrap">
+                            <label>Email </label>
+                            <input type="email" id="email" required>
+                        </div>
+
+
+                        <div class="input_wrap">
+                            <label>Street </label>
+                            <input type="text" id="street" required>
+                        </div>
+
+                        <!--GROUP INPUT-->
+                        <div class="input_gr">
+                            <div class="input_wrap">
+                                <label>Suburb</label>
+                                <input type="text" id="suburb" required>
+                            </div>
+                            <div class="input_wrap">
+                                <label>City</label>
+                                <input type="text" id="city" required>
+                            </div>
+
+                        <!-- END GROUP INPUT-->
+                        </div>
+
+                        <!--GROUP INPUT-->
+                        <div class="input_gr">
+                            <div class="input_wrap">
+                                <label>State</label>
+                                <input type="text" id="state" required>
+                            </div>
+                            <div class="input_wrap">
+                                <label>Postcode</label>
+                                <input type="number" id="postcode" required>
+                            </div>
+
+                        <!-- END GROUP INPUT-->
+                        </div>
+
+
+
+
+                        <!--GROUP INPUT-->
+                        <div class="input_gr">
+                            <div class="input_wrap">
+                                <label>User Name</label>
+                                <input type="text" id="username" required>
+                            </div>
+                            <div class="input_wrap">
+                                <label>Password</label>
+                                <div class="icon_input">
+                                    <input type="password" id="password" required>
+                                    <button type="button" id="show_pw" onclick="showpassword()"><i class="far fa-eye"></i></button>
+
+                                </div>
+                            </div>
+                        <!-- END GROUP INPUT-->
+                        </div>
+
+                        <div class="input_wrap">
+                            <button type="button" class="submit_btn" onclick="signupForHealth()"> SIGN UP</button>
+                        </div>
+
+                    </div>
+                </form>
+                <p>Return to <a class="login" href="/health_homepage">home page</a>  </p>
+
+            </div>
+
+            <div id="myModal" class="modal" style="display:none">
+                <div class="modal-content">
+
+                    <div class="modal-header">
+                        <span class="close" onclick="close_me()">&times;</span>
+                        <p id="res">  </p>
+                    </div>
+
+
+                </div>
+            </div>
+        </header>
+
+
+
+    </body>
+
+</html>

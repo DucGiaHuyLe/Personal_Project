@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600&display=swap');
+
+* {
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+body {
+    background-color: #173864;
+    font-size: 15px;
+}
+
+.logo {
+    width: 25vh;
+    display: block;
+    max-width: 27vh;
+    margin-left: 25px;
+    float: left;
+}
+
+.topmenu {
+    width: auto;
+    height: 10vh;
+    margin-right: 25px;
+}
+
+
+.menu {
+    padding-top: 15px;
+    float: right;
+}
+
+
+.menu a {
+    float: left;
+    color: #fff;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 15px;
+}
+
+a:hover {
+    color: yellow;
+    text-decoration: underline;
+}
+
+a:active {
+    color: blue;
+    text-decoration: underline;
+}
+
+@media screen and (min-width: auto) {
+#table {
+    width: auto;
+    margin: 0;
+    overflow-x: auto;
+    display: auto;
+}}
+
+table {
+  width:auto;
+  min-width:5px;
+  background-color: #F8F8F8;
+  overflow: scroll;
+  table-layout: auto;
+}
+table, th, td {
+  border: 3px solid black;
+  border-collapse: collapse;
+  margin-left: auto;
+  margin-right: auto;
+}
+th, td {
+  padding: 20px;
+  text-align: left;
+}
+
+#title th {
+    text-align:center;
+}
+.save {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 150px;
+    position: absolute;
+    
+}

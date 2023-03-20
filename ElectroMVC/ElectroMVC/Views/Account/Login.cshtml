@@ -1,0 +1,39 @@
+﻿@model User
+@{
+    ViewData["Title"] = "Login";
+    Layout = "";
+}
+<link rel="stylesheet" href="~/css/login.css">
+<form class="modal-content animate" method="post" asp-action="Login">
+    
+    <div class="imgcontainer">
+      <img src="https://www.bonanzaonline.com/images/img_avatar.png" alt="Avatar" class="avatar">
+    </div>
+
+    <div class="container">
+        @*<label asp-for="UserEmail"><b>Username</b></label>
+      <input asp-for="UserEmail" type="text" placeholder="Enter Username" name="uname" required>
+
+      <label asp-for="UserPassword"><b>Password</b></label>
+      <input asp-for="UserPassword" type="password" placeholder="Enter Password" name="psw" required>*@
+
+      <label><b>Username</b></label>
+      <input asp-for="UserEmail" type="text" placeholder="Enter Username"/>
+      <span asp-validation-for="UserEmail" class="text-danger"></span>
+      <br />
+      <label><b>Password</b></label>
+      <input asp-for="UserPassword" type="password" placeholder="Enter Password"/>
+      <span asp-validation-for="UserPassword" class="text-danger"></span>
+
+      <button type="submit">Login</button>
+      <label>
+        <input type="checkbox" checked="checked" name="remember"> Remember me
+      </label>
+    </div>
+
+    <div class="container" style="background-color:#f1f1f1">
+      <button type="button" onclick="document.getElementById('id01').style.display='none'" class="cancelbtn">Cancel</button>
+      <span class="psw">Forgot <a href="#">password?</a></span>
+    </div>
+  </form>
+

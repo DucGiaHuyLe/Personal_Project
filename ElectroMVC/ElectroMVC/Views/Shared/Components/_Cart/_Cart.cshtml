@@ -1,0 +1,54 @@
+﻿@model IEnumerable<Cart>
+@*
+    For more information on enabling MVC for empty projects, visit http://go.microsoft.com/fwlink/?LinkID=397860
+*@
+
+<!-- Cart -->
+<div class="dropdown">
+	<a class="dropdown-toggle" data-toggle="dropdown" aria-expanded="true">
+		<i class="fa fa-shopping-cart"></i>
+		<span>Your Cart</span>
+		<div class="qty">3</div>
+	</a>
+	<div class="cart-dropdown">
+		<div class="cart-list">
+			
+			@foreach (var item in Model)
+			{
+				if (item.Product != null)
+				{
+					<div class="product-widget">
+						<div class="product-img">
+
+							<img src="~/LayoutStyle/@item.Product.ProductImage" alt="">
+						</div>
+						<div class="product-body">
+							<h3 class="product-name"><a href="#">@item.Product.ProductName</a></h3>
+							<h4 class="product-price"><span class="qty">@item.Quantity x</span>$@item.Product.ProductPrice</h4>
+						</div>
+						<button class="delete"><i class="fa fa-close"></i></button>
+					</div>
+				} 
+				else
+				{
+					<h4>Empty cart </h4>
+				}
+			}
+		</div>
+		<div class="cart-summary">
+			@if (Model.ToList()[0].Product != null)
+			{
+				<small>@Model.Count() Item(s) selected</small>
+			} else 
+			{
+				<small>0 Item(s) selected</small>
+			}
+			<h5>SUBTOTAL: $@ViewBag.subtotal</h5>
+		</div>
+		<div class="cart-btns">
+			<a href="#">View Cart</a>
+			<a href="#">Checkout  <i class="fa fa-arrow-circle-right"></i></a>
+		</div>
+	</div>
+</div>
+<!-- /Cart -->

@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Home</title>
+    <meta charset="UTF-8">
+
+    <!-- Control viewport to make it responsive -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="/stylesheets/home.css">
+
+    <script src='https://api.mapbox.com/mapbox-gl-js/v2.2.0/mapbox-gl.js'></script>
+    <link href='https://api.mapbox.com/mapbox-gl-js/v2.2.0/mapbox-gl.css' rel='stylesheet' />
+    <script src="/javascripts/user_homepage.js" defer> </script>
+
+    <!-- Login with FB or Google -->
+    <script src="https://apis.google.com/js/platform.js" async defer></script>
+    <meta name="google-signin-client_id" content="161774089268-k284hobl8s1rlod3lsq91cnsjel25qhp.apps.googleusercontent.com">
+
+    <!-- Mapbox-gl-draw-plugin -->
+    <script src="https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-draw/v1.2.2/mapbox-gl-draw.js"></script>
+    <link rel="stylesheet" href="https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-draw/v1.2.2/mapbox-gl-draw.css" type="text/css">
+
+</head>
+
+<body onload="show_history(); show_hotspots();">
+    <div class="topmenu">
+        <img src="/images/logo.png" alt="logo" class="logo">
+
+        <div class="menu">
+            <a class="profile" href="/profile">PROFILE</a>
+            <a class="history" href="/user_history">HISTORY</a>
+            <a class="contact" href="/contact">CONTACT US</a>
+        </div>
+    </div>
+
+
+    <div class="main">
+        <div id="map"></div>
+
+        <div class="infoblock">
+            <p class="detailsheading" align="center">LOCATION DETAILS</p>
+            <hr>
+
+            <div class="infodiv" id="infodiv">
+                <!--<p class="info">Name:</p>-->
+
+                <!--<p class="info">Address:</p>-->
+
+                <!--<p class="info">Coordinates:</p>-->
+
+
+            </div>
+
+            <button type="button" class="checkinbutton" onclick="get_location()">CHECK IN</button>
+
+              <!--<a href="#" onclick="signOut();">Sign out</a>-->
+
+        </div>
+    </div>
+
+    <div id="myModal" class="modal" style="display:none">
+        <div class="modal-content">
+
+            <div class="modal-header">
+                <span class="close" onclick="close_me()">&times;</span>
+                <p id="res">   </p>
+            </div>
+
+
+        </div>
+    </div>
+    </body>
+</html>

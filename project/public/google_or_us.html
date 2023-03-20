@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Choices</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="/stylesheets/style.css">
+        <script>
+            function redirect() {
+                var x = document.getElementById("role").value;
+                if (x=='covidfy'){
+                    window.location.replace("/user_signup");
+                } else{
+                    window.location.replace("/extraInfo_Google");
+                }
+            }
+        </script>
+    </head>
+    <body>
+        <header>
+            <div class="signup_form">
+                <div class="logo_frame">
+                    <img class="logo" src="/images/logo.png" alt="covidfy">
+                </div>
+
+                <div class="heading">
+                    <h3 class="ROLE"> Sign up with Covidfy or Provide additional personal info to login with Google </h3>
+                </div>
+                <form>
+                    <div class="form_wrap">
+                        <div class="Select">
+                            <select name="roles" id="role" onchange = "redirect()">
+                                <option disabled selected> Select...</option>
+                                <option value="covidfy"> COVIDFY</option>
+                                <option value="google">GOOGLE</option>
+                            </select>
+                        </div>
+                        <!--<div class="input_wrap">-->
+                        <!--    <input type="submit" value="SIGN UP" class="submit_btn">-->
+                        <!--</div>-->
+                    </div>
+                </form>
+
+
+
+             </div>
+         </header>
+    </body>
+</html>

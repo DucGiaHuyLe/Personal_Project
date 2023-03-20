@@ -1,0 +1,263 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600&display=swap');
+*{
+    padding:0;
+    margin:0;
+    font-family: 'Poppins', sans-serif;
+    box-sizing:border-box;
+}
+body{
+    font-size: 20px;
+    background-color: #173864;
+}
+.logo_frame {
+    background:#173864 ;
+    width: 100%;
+    padding:2px;
+    height:100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.logo {
+    width: 15rem;
+}
+
+header {
+    min-height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.signup_form {
+    background: #fff;
+    padding: 25px;
+    border-radius: 5px;
+    max-width: 600px;
+    width: 100%;
+}
+
+.signup_form:hover {
+    box-shadow: 0px 11px 54px 0px rgba(0,0,0,0.75);
+}
+
+.signup_form .heading{
+    text-align: center;
+    color:#173864 ;
+    font-weight: 700;
+    margin-top: 25px;
+    margin-bottom: 10px;
+}
+
+.form_wrap .input_wrap{
+    margin-bottom: 15px;
+}
+
+.form_wrap .input_wrap label{
+    display:block; /*to seperate the label and input*/
+    margin-bottom: 3px;
+    color: #173864;
+}
+
+.form_wrap .input_gr{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.form_wrap input{
+    width: 100%;
+    padding: 10px;
+    border-color: #173864;
+    border-width: 2px;
+    border-radius: 3px;
+}
+.form_wrap #password {
+    border: none;
+}
+.form_wrap #password:focus {
+    outline:none;
+}
+.form_wrap .submit_btn{
+    margin-top: 50px;
+    width: 100%;
+    background-color: #173864;
+    padding: 15px;
+    border-radius: 3px;
+    cursor: pointer;
+    color: #fff;
+    font-size: 20px;
+}
+
+.login {
+    color: #173864;
+    text-decoration: underline;
+    font-weight: 600;
+}
+
+header p {
+    text-align:center;
+}
+
+
+.choices #usertype {
+    display: block;
+    background:#fff;
+    color:#173864;
+    width:100%;
+    height: 50px;
+    font-size: 18px;
+    border-color:  black #173864 #173864 black;
+    border-width: 2px;
+    border-radius: 3px;
+
+}
+
+.choices {
+    margin: 25px 0px 25px 0px;
+}
+.choices label {
+    color: #173864 ;
+}
+.choices #usertype:focus {
+    outline:none;
+}
+
+.icon_input {
+    display:flex;
+    flex-direction:row;
+    border:2px solid;
+    border-color:  black #173864 #173864 black;
+    width:250px;
+    border-radius: 3px;
+    align-items: center;
+}
+
+.form_wrap .input_gr input{
+    width: 250px;
+}
+.form_wrap .input_gr input[type="password"]{  /* to seperate with the other input type */
+    flex-grow: 2;
+    border:none;
+}
+.form_wrap .input_gr input[type="password"]:focus {
+     outline: none;
+}
+
+
+
+#show_pw {
+    background:white;
+    width: 1.5rem;
+    height: 1.5rem;
+    border:none;
+}
+#show_pw:hover {
+    background:lightgrey;
+}
+
+.modal {
+    position: absolute;
+    align-items: center;
+    justify-content: center;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    z-index: 1; /* Sit on top */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+    -webkit-animation-name: fadeIn; /* Fade in the background */
+    -webkit-animation-duration: 0.4s;
+    animation-name: fadeIn;
+    animation-duration: 0.4s
+}
+
+/* Modal Content */
+.modal-content {
+  max-width: 600px;
+  width: 100%;
+  -webkit-animation-name: slideIn;
+  -webkit-animation-duration: 0.4s;
+  animation-name: slideIn;
+  animation-duration: 0.4s
+}
+
+/* The Close Button */
+.close {
+  color: white;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.modal-header {
+  padding: 2px 16px;
+  background-color: #95b7ed;
+  color: #fff;
+  text-align: center;
+}
+
+.modal-body {
+  padding: 15px 16px;
+  background:#fff;
+  text-align: center;
+  color: #173864;
+}
+
+.modal-footer {
+  padding: 15px 16px;
+  background-color: #95b7ed;
+  color: white;
+  text-align: center;
+}
+
+#makeshop {
+  cursor: pointer;
+  width: 4rem;
+  height: 2rem;
+  border-radius: 2px;
+  color: #fff;
+  font-weight: 600;
+  font-size: 15px;
+  /*gradient background example*/
+  /*background: linear-gradient(to right, #173864, #95b7ed);*/
+  background-color: #173864;
+  border: 2px solid #173864;
+  padding: 0px 30px;
+}
+
+.Select {
+    text-align: center;
+    padding: 40px 0px;
+    margin-bottom: 40px;
+
+}
+.Select select {
+    width: 80%;
+    height: 3rem;
+    border-radius: 3px;
+    font-size:20px;
+    color: #173864;
+    border: 2px solid #173864;
+}
+
+@media screen and (max-width: 600px) {
+    .form_wrap .input_gr{
+        display:block;
+
+    }
+    .form_wrap .input_gr input {
+        width: 100%;
+    }
+    .icon_input {
+        width: 100%;
+    }
+}

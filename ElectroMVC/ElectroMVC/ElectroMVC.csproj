@@ -1,0 +1,35 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Remove="wwwroot\css\StyleSheet.css" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation" Version="6.0.14" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="6.0.14" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="6.0.14">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="6.0.13" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\LayoutStyle\fonts\fontawesome-webfont.svg" />
+    <None Include="wwwroot\LayoutStyle\fonts\fontawesome-webfont.woff2" />
+    <None Include="wwwroot\LayoutStyle\fonts\slick.svg" />
+    <None Include="wwwroot\LayoutStyle\js\bootstrap.min.js" />
+    <None Include="wwwroot\LayoutStyle\js\jquery.min.js" />
+    <None Include="wwwroot\LayoutStyle\js\jquery.zoom.min.js" />
+    <None Include="wwwroot\LayoutStyle\js\main.js" />
+    <None Include="wwwroot\LayoutStyle\js\nouislider.min.js" />
+    <None Include="wwwroot\LayoutStyle\js\slick.min.js" />
+  </ItemGroup>
+
+</Project>

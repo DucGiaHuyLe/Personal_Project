@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Login</title>
+    <meta charset="UTF-8">
+
+    <!-- Control viewport to make it responsive -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="/stylesheets/login.css">
+    <script src="/javascripts/login.js"></script>
+
+    <!-- Login with FB or Google -->
+    <script src="https://apis.google.com/js/platform.js" async defer></script>
+    <meta name="google-signin-client_id" content="161774089268-k284hobl8s1rlod3lsq91cnsjel25qhp.apps.googleusercontent.com">
+    <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js"></script>
+
+</head>
+
+<body>
+
+    <header>
+        <div class="main">
+            <div class="logo_frame">
+                        <img class="logo" src="/images/logo.png" alt="covidfy">
+                    </div>
+
+            <p class="login">LOGIN</p>
+
+            <form class="form1">
+                <input class="FillInput Username" type="text" placeholder="Username" id="username">
+                <input class="FillInput Password" type="password"  placeholder="Password" id="password">
+                <input class="checkbox" type="checkbox" onclick="showpassword()">Show Password
+                <button type="button" class="loginbutton" onclick="login()" >LOGIN</button>
+                <p class="LinkAccounts" >Or login with</p>
+            </form>
+
+                <div class="g-signin2" data-onsuccess="onSignIn" align="center"></div>
+                <p>Don't have an account?   <a class="login" href="/google_or_us"> SIGN UP</a>  </p>
+            </div>
+        </div>
+
+        <div id="myModal" class="modal" style="display:none">
+        <div class="modal-content">
+
+            <div class="modal-header">
+                <span class="close" onclick="close_me()">&times;</span>
+                <h2>Password or Username incorrect </h2>
+            </div>
+
+
+        </div>
+    </div>
+     </header>
+
+
+</body>
+</html>

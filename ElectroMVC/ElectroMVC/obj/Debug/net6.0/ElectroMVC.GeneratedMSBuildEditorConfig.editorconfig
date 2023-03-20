@@ -1,0 +1,165 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ElectroMVC
+build_property.RootNamespace = ElectroMVC
+build_property.ProjectDir = M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
+build_property.MSBuildProjectDirectory = M:\Personal Documents\Personal IT projects\ElectroMVC\ElectroMVC
+build_property._RazorSourceGeneratorDebug = 
+
+[M:/Personal Documents/Personal IT projects/ElectroMVC/ElectroMVC/Views/Account/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/Personal Documents/Personal IT projects/ElectroMVC/ElectroMVC/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/Personal Documents/Personal IT projects/ElectroMVC/ElectroMVC/Views/Admin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/Personal Documents/Personal IT projects/ElectroMVC/ElectroMVC/Views/Brands/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnJhbmRzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/Personal Documents/Personal IT projects/ElectroMVC/ElectroMVC/Views/Brands/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnJhbmRzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/Personal Documents/Personal IT projects/ElectroMVC/ElectroMVC/Views/Brands/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnJhbmRzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/Personal Documents/Personal IT projects/ElectroMVC/ElectroMVC/Views/Brands/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnJhbmRzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/Personal Documents/Personal IT projects/ElectroMVC/ElectroMVC/Views/Brands/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnJhbmRzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/Personal Documents/Personal IT projects/ElectroMVC/ElectroMVC/Views/Categories/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/Personal Documents/Personal IT projects/ElectroMVC/ElectroMVC/Views/Categories/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/Personal Documents/Personal IT projects/ElectroMVC/ElectroMVC/Views/Categories/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/Personal Documents/Personal IT projects/ElectroMVC/ElectroMVC/Views/Categories/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/Personal Documents/Personal IT projects/ElectroMVC/ElectroMVC/Views/Categories/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/Personal Documents/Personal IT projects/ElectroMVC/ElectroMVC/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/Personal Documents/Personal IT projects/ElectroMVC/ElectroMVC/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/Personal Documents/Personal IT projects/ElectroMVC/ElectroMVC/Views/Home/ProductDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcm9kdWN0RGV0YWlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/Personal Documents/Personal IT projects/ElectroMVC/ElectroMVC/Views/Products/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/Personal Documents/Personal IT projects/ElectroMVC/ElectroMVC/Views/Products/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/Personal Documents/Personal IT projects/ElectroMVC/ElectroMVC/Views/Products/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/Personal Documents/Personal IT projects/ElectroMVC/ElectroMVC/Views/Products/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/Personal Documents/Personal IT projects/ElectroMVC/ElectroMVC/Views/Products/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/Personal Documents/Personal IT projects/ElectroMVC/ElectroMVC/Views/Shared/Components/_Brand/_Brand.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0JyYW5kXF9CcmFuZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/Personal Documents/Personal IT projects/ElectroMVC/ElectroMVC/Views/Shared/Components/_Cart/_Cart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0NhcnRcX0NhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/Personal Documents/Personal IT projects/ElectroMVC/ElectroMVC/Views/Shared/Components/_Category/_Category.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0NhdGVnb3J5XF9DYXRlZ29yeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/Personal Documents/Personal IT projects/ElectroMVC/ElectroMVC/Views/Shared/Components/_Cate/_Cate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0NhdGVcX0NhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/Personal Documents/Personal IT projects/ElectroMVC/ElectroMVC/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/Personal Documents/Personal IT projects/ElectroMVC/ElectroMVC/Views/Shared/_AdminLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BZG1pbkxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/Personal Documents/Personal IT projects/ElectroMVC/ElectroMVC/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/Personal Documents/Personal IT projects/ElectroMVC/ElectroMVC/Views/Store/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RvcmVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/Personal Documents/Personal IT projects/ElectroMVC/ElectroMVC/Views/Users/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/Personal Documents/Personal IT projects/ElectroMVC/ElectroMVC/Views/Users/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/Personal Documents/Personal IT projects/ElectroMVC/ElectroMVC/Views/Users/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/Personal Documents/Personal IT projects/ElectroMVC/ElectroMVC/Views/Users/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/Personal Documents/Personal IT projects/ElectroMVC/ElectroMVC/Views/Users/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/Personal Documents/Personal IT projects/ElectroMVC/ElectroMVC/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/Personal Documents/Personal IT projects/ElectroMVC/ElectroMVC/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/Personal Documents/Personal IT projects/ElectroMVC/ElectroMVC/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-b7qzzj947e
